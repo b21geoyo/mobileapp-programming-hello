@@ -1,8 +1,6 @@
 
 # Rapport
 
-**Skriv din rapport här!**
-
 Jag ändrade "Hello World!" värdet i textView till "Something Nice!"
 
 ```
